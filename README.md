@@ -56,8 +56,6 @@ I am a Front-End web developer from Armenia 🇦🇲
 
 ###
 
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArthurEsterox&show_icons=true&bg_color=00000000" alt="Stats" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEsterox&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEsterox&bg_color=00000000" alt="Most Used Languages" />
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurEsterox&show_icons=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
