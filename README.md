@@ -10,6 +10,8 @@ I am a Front-End web developer from Armenia 🇦🇲
 
 - :zap: In my free time, I develop demo projects with different technologies and read tech articles.
 
+- :mailbox: How to reach me: <a href="mailto:artur.arakelyan@esterox.am">artur.arakelyan@esterox.am</a>
+
 --- 
 ### :computer: Languages, Frameworks and Libraries :
 
@@ -50,4 +52,12 @@ I am a Front-End web developer from Armenia 🇦🇲
 ### :bulb: Keen on :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+</div>
+
+###
+
+<div>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArthurEsterox&show_icons=true&bg_color=00000000" alt="Stats" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurEsterox&bg_color=00000000" alt="Most Used Languages" />
 </div>
