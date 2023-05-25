@@ -1,12 +1,11 @@
 ### Hi there 👋
 
-I am Arthur, a Front-End Developer with a track record of using JavaScript and its frameworks to help
-businesses build and manage stronger code bases.
+I am Arthur, an always inspired and experienced Frontend developer with a track record of using JavaScript and its frameworks to help businesses build and manage stronger code bases.
 ---
 ### :man_technologist: About me:
 I am a Front-End web developer from Armenia 🇦🇲
 
-- :telescope: I’m working as a Software Developer and contributing to frontend for building web applications.
+- :telescope: I’m working as a Frontend Developer and contributing to frontend for building web applications.
 
 - :zap: In my free time, I develop demo projects with different technologies and read tech articles.
 
@@ -46,12 +45,12 @@ I am a Front-End web developer from Armenia 🇦🇲
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="Filezilla" alt="Filezilla" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
 </div>
 
 ### :bulb: Keen on :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://www.esterox.com/images/shared/technologies/react-native.png" title="React Native" alt="Mobile Development" width="40" height="40"/>&nbsp;
 </div>
 
 ###
